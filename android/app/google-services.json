@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588925586601",
+    "project_id": "prajwalnotes",
+    "storage_bucket": "prajwalnotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588925586601:android:b599847c98b41ca8caadb8",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgnk2vfRmLvqWnT1HVv1h59zTUYV784cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
